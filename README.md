@@ -1,5 +1,5 @@
 # URL Shortener Microservice
-Check live demo at: [heroku](https://frankbearzou-url-shortener.herokuapp.com/).
+Check live demo at: [Glitch](https://frankbearzou-url-shortener.glitch.me).
 
 ## User Stories
 - I can pass a URL as a parameter and I will receive a shortened URL in the JSON response.
